@@ -30,7 +30,7 @@
 
 重要的事情说三遍
 
-
+~~什么你是Windows10?哇哦你电脑自带.NET Framework 4.0了呢~~
 
 > 👉iPhotoDraw
 
