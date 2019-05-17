@@ -1,8 +1,0 @@
-C:\Users\64150\source\repos\GaussianOut\GaussianOut\obj\Debug\GaussianOut.Form1.resources
-C:\Users\64150\source\repos\GaussianOut\GaussianOut\obj\Debug\GaussianOut.csproj.GenerateResource.cache
-C:\Users\64150\source\repos\GaussianOut\GaussianOut\bin\Debug\GaussianOut.exe
-C:\Users\64150\source\repos\GaussianOut\GaussianOut\bin\Debug\GaussianOut.pdb
-C:\Users\64150\source\repos\GaussianOut\GaussianOut\obj\Debug\GaussianOut.Properties.Resources.resources
-C:\Users\64150\source\repos\GaussianOut\GaussianOut\obj\Debug\GaussianOut.csproj.CoreCompileInputs.cache
-C:\Users\64150\source\repos\GaussianOut\GaussianOut\obj\Debug\GaussianOut.exe
-C:\Users\64150\source\repos\GaussianOut\GaussianOut\obj\Debug\GaussianOut.pdb
