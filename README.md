@@ -1,8 +1,8 @@
-`中国药科大学Gaussian程序本科课程数据处理程序`
+`中国药科大学Gaussian本科课程数据处理程序`
 ===
 自己写的Gaussian txt out文件快速处理程序
 
-用于中国药科大学Gaussian程序本科物理化学实验课程数据处理
+用于中国药科大学Gaussian本科物理化学实验课程数据处理
 
 ~~你拿去做别的Gaussian文件处理我也阻止不了~~
 
@@ -24,9 +24,9 @@
 
 需要.NET Framework 4.0
 
-###需要.NET Framework 4.0
+需要.NET Framework 4.0
 
-##需要.NET Framework 4.0
+需要.NET Framework 4.0
 
 重要的事情说三遍
 
