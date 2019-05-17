@@ -12,11 +12,15 @@
 
 用于将Gaussian输出的过于弱智的模拟红外光谱txt文件转换为excel能打开的csv
 
+把txt文件拖到图标上使用
+
 这个不要Framework
 
 > 👉GaussianOut
 
 用于在繁琐复杂的.out文件里迅速找到教纲需要的数据
+
+双击打开使用
 
 需要.NET Framework 4.0
 
