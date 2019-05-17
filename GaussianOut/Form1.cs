@@ -1,10 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
 namespace GaussianOut
@@ -30,7 +26,6 @@ namespace GaussianOut
             OpenFileDialog ofd = new OpenFileDialog();
             ofd.ShowDialog();
             szFilePath = comboBox1.Text = ofd.FileName;
-
         }
 
         private void Button2_Click(object sender, EventArgs e)
@@ -40,13 +35,9 @@ namespace GaussianOut
             string[] aryNeg = { };
             int j = 0;
             if (Form1.szFilePath == "")
-            {
                 label1.Text = "没有输入文件，请检查文件路径是否正确!";
-            }
             else if (Form1.szFilePath.Split('.')[1] != "out")
-            {
                 label1.Text = "输入文件格式不正确!";
-            }
             else
             {
                 System.IO.StreamReader sr = System.IO.File.OpenText(Form1.szFilePath);

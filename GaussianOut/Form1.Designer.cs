@@ -71,7 +71,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(41, 12);
             this.label1.TabIndex = 3;
-            this.label1.Text = "中国药科大学Gaussian数据查询器\n本程序需要.NET Framework 4.0及以上";
+            this.label1.Text = "中国药科大学Gaussian数据查询器\n本程序需要.NET Framework 4.0及以上\nDr.Abc制作";
             // 
             // groupBox1
             // 
