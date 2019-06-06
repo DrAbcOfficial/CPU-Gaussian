@@ -1,8 +1,8 @@
-`中国药科大学Gaussian本科课程数据处理程序`
+`CPU Gaussian本科课程数据处理程序`
 ===
 自己写的Gaussian txt out文件快速处理程序
 
-用于中国药科大学Gaussian本科物理化学实验课程数据处理
+用于CPU Gaussian本科物理化学实验课程数据处理
 
 ~~你拿去做别的Gaussian文件处理我也阻止不了~~
 
