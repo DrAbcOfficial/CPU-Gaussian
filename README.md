@@ -1,5 +1,12 @@
 `CPU Gaussian本科课程数据处理程序`
 ===
+
+> ACHIEVEMENT--  THE MAN WHO ROWS THE BOAT GENERALLY 
+>                DOESN'T HAVE TIME TO ROCK IT.
+> 
+>-- FROM THE BACK OF A SUGAR PACKET
+
+---
 自己写的Gaussian txt out文件快速处理程序
 
 用于CPU Gaussian本科物理化学实验课程数据处理
